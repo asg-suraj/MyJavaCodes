@@ -8,8 +8,8 @@ public class prog2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			String name1="piya";
-			String name2="piyusha";
+			String name1="shri";
+			String name2="shriram";
 			
 			int c = name1.compareTo(name2);  //compared lexicographically
 			if(c<0)
